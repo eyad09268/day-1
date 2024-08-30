@@ -1,0 +1,21 @@
+body {
+    font-family: "Comfortaa", sans-serif;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+
+.box1 {
+    
+    padding: 27px;
+    background-color: rgb(0, 128, 0); /* Green */
+}
+
+.box2 {
+    padding: 27px;
+    background-color: rgb(128, 0, 0); /* Maroon */
+}
+img{
+    width: 100%;
+}

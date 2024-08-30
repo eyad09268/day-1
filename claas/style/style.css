@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to right, red,orange,yellow);
+
+}
+H1{
+    font-size: 50PX;
+    text-align: center;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{    
+    font-size: 20PX;
+    text-align: center;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
